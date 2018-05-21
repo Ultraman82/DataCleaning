@@ -1,7 +1,7 @@
  
 # Data Cleaning
 ## Data Analytic project
-[Direct jupyter notebook link](Assignment 3.ipynb)
+[Direct jupyter notebook link](Assignment3.ipynb)
 
 
 http://unstats.un.org/unsd/environment/excel_file_tables/2013/Energy%20Indicators.xls
