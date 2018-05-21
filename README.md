@@ -7,9 +7,9 @@
 
 Used dataset : 
 
-##### [United Nations](http://unstats.un.org/unsd/environment/excel_file_tables/2013/Energy%20Indicators.xls)
+##### [Energy Indicators.xls / United Nations](http://unstats.un.org/unsd/environment/excel_file_tables/2013/Energy%20Indicators.xls)
 
-##### [World Bank](http://data.worldbank.org/indicator/NY.GDP.MKTP.CD)
+##### [GDP from 1960 to 2015 / World Bank](http://data.worldbank.org/indicator/NY.GDP.MKTP.CD)
 
 ##### [Sciamgo Journal and Country Rank data for Energy Engineering and Power Technology](http://www.scimagojr.com/countryrank.php?category=2102)
 
