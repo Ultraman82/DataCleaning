@@ -1,12 +1,18 @@
  
 # Data Cleaning
 ## Data Analytic project
+
 [Direct jupyter notebook link](Assignment3.ipynb)
 
 
-http://unstats.un.org/unsd/environment/excel_file_tables/2013/Energy%20Indicators.xls
-
 Used dataset : 
+
+#####[United Nations](http://unstats.un.org/unsd/environment/excel_file_tables/2013/Energy%20Indicators.xls)
+
+#####[World Bank](http://data.worldbank.org/indicator/NY.GDP.MKTP.CD)
+
+#####[Sciamgo Journal and Country Rank data for Energy Engineering and Power Technology](http://www.scimagojr.com/countryrank.php?category=2102)
+
 
 Load the energy data from the file Energy Indicators.xls, which is a list of indicators of energy supply and renewable electricity production from the [United Nations](http://unstats.un.org/unsd/environment/excel_file_tables/2013/Energy%20Indicators.xls) for the year 2013, and should be put into a DataFrame with the variable name of energy.
 
